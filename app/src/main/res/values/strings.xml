@@ -3,7 +3,7 @@
     <!-- Generic -->
     <string name="app_name">Twitimer</string>
     <string name="title">Twitimer</string>
-    <string name="accept">Accept</string>
+    <string name="accept">Ok</string>
     <string name="cancel">Cancel</string>
     <string name="understood">Understood</string>
     <string name="next">Next</string>
